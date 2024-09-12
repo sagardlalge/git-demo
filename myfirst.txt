@@ -1,5 +1,6 @@
 This is my first commi
 
+code path -> eg: code . (curent dir) to open vscode 
 git status -> To check which files are not pushed to github
 git add -> To add those files to github
 git commit -> commit changes (write nice informative commit message)
