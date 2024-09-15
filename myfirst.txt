@@ -1,4 +1,4 @@
-This is my first commi
+This is my first commit
 
 code path -> eg: code . (curent dir) to open vscode 
 git status -> To check which files are not pushed to github
@@ -7,3 +7,5 @@ git commit -> commit changes (write nice informative commit message)
 git push -> To upload/publish the changes to github
 git checkout -b branch_name => to create a new branch
 git checkout -> To switch branch or commit eg: git checkout commit_id OR git checkout branch_name
+
+git commands 
